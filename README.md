@@ -1,30 +1,13 @@
 # SaveSphere
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+SaveSphere: Turning Arisan into DeFi Gold on Solana
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/jumes-projects/v0-save-sphere)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/nj1RGYdBsoL)
+## 🎥 Pitch Video
+Watch the pitch to understand the problem SaveSphere solves and how it helps users:
 
-## Overview
+[Watch Pitch](https://youtu.be/5GjtZEZdUnE)
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+## 🛠️ Technical Demo
+See SaveSphere in action with our technical demo showcasing the main features and functionality:
 
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/jumes-projects/v0-save-sphere](https://vercel.com/jumes-projects/v0-save-sphere)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/nj1RGYdBsoL](https://v0.dev/chat/projects/nj1RGYdBsoL)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+[Watch Technical Demo](https://youtu.be/TBFMjBuGR9w)
